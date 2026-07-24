@@ -1,0 +1,9 @@
+MODEL_NAME = "qwen3.5:9b"
+
+TEMPERATURE = 0.3
+
+TOP_P = 0.9
+
+MAX_TOKENS = 2048
+
+TIMEOUT = 120
